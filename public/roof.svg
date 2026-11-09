@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 480">
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M0 24V0h24" fill="none" stroke="#456047" stroke-opacity=".45"/></pattern><pattern id="tiles" width="24" height="14" patternUnits="userSpaceOnUse" patternTransform="skewX(-27)"><path d="M0 0h24M12 0v7M0 7h24M0 7v7" fill="none" stroke="#8ea176" stroke-opacity=".52"/></pattern></defs>
+<path fill="#243c2b" d="M0 0h620v480H0z"/><path fill="url(#grid)" d="M0 0h620v480H0z"/>
+<circle cx="443" cy="139" r="83" fill="#d5ef95"/>
+<path d="M33 380h554M47 396h528M72 412h472" stroke="#6b8868"/>
+<path d="M88 257v115h413V247L330 170z" fill="#78916f" stroke="#b2c49b" stroke-width="2"/>
+<path d="M230 97h178l141 152H353z" fill="#374e3a"/><path d="M230 97h178l141 152H353z" fill="url(#tiles)" stroke="#d4e4bf" stroke-width="2"/>
+<path d="M63 256 230 97l148 159h-35L230 133 99 256z" fill="#ecf1d9"/>
+<path d="m99 256 131-123 113 123v116H99z" fill="#afc39f"/>
+<path d="M100 270h245m-245 13h245m-245 13h245m-245 13h245m-245 13h245m-245 13h245m-245 13h245m-245 13h245" stroke="#7b9877"/>
+<path d="M190 215h68v49h-68zm-60 82h52v49h-52zm84-8h49v83h-49zm77 8h36v49h-36zm101-25h77v49h-77z" fill="#243c2b" stroke="#e1eccf" stroke-width="3"/>
+<path d="M224 216v47m-34-24h68m-102 59v48m275-74v48" stroke="#b4c8a3" stroke-width="2"/>
+<path d="M37 63V38h25m496 0h25v25M37 418v25h25m496 0h25v-25" fill="none" stroke="#b2ca99" stroke-width="2"/>
+</svg>
